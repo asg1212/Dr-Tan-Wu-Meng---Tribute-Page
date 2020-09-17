@@ -54,3 +54,8 @@
   color: #cc0000;
   font-weight: bold;
 }
+
+#image {
+  max-width: 500px;
+  display: block;
+}
